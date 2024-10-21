@@ -1,0 +1,4 @@
+v0
+每个模型分别使用对应的config，唯一指示符也都写在config里面
+v1
+把v0废弃掉，使用general config提供prompt，每个模型的唯一指示符通过对应的inference脚本穿进去
